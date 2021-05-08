@@ -11,5 +11,7 @@ Sous Android,
 Téléphone/ Paramètres d'appel / Bloquer des numéros
 
 Pour gérer les préfixes (AKA wildcard), TASKER est la solution
+
 http://tasker.wikidot.com/block-calls
 
+https://9to5google.com/2021/01/20/tasker-5-11-adds-ability-to-automatically-block-calls-plus-more/

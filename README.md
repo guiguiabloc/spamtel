@@ -10,6 +10,6 @@ http://blog.guiguiabloc.fr/index.php/2011/05/14/domotique-suivi-des-appels-entra
 Sous Android, 
 Téléphone/ Paramètres d'appel / Bloquer des numéros
 
-Pour gérer les préfixés (AKA wildcard), TASKER est la solution
+Pour gérer les préfixes (AKA wildcard), TASKER est la solution
 http://tasker.wikidot.com/block-calls
 

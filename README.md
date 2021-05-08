@@ -8,4 +8,8 @@ http://blog.guiguiabloc.fr/index.php/2013/01/09/truecall-filtrer-les-appels-tele
 http://blog.guiguiabloc.fr/index.php/2011/05/14/domotique-suivi-des-appels-entrants-telephoniques/
 
 Sous Android, 
-Téléphone/ Paramètres d'appel / Bloquer des numéros (vous pouvez renseigner un "wildcard", exemple 025502*)
+Téléphone/ Paramètres d'appel / Bloquer des numéros
+
+Pour gérer les préfixés (AKA wildcard), TASKER est la solution
+http://tasker.wikidot.com/block-calls
+
